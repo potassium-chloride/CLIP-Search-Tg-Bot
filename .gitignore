@@ -3,3 +3,4 @@ __pycache__
 config.json
 offset.txt
 importChatFromZip.py
+tests.py
